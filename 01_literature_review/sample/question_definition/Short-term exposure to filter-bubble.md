@@ -53,3 +53,16 @@ Short-term exposure to filter-bubble recommendation systems has limited polariza
 - **可挑战的观点（研究缺口）：** 论文明确承认，研究结果不能排除**长期暴露**或对**小部分高度易受影响人群**（例如，政治不感兴趣的温和派）的影响。您的博士研究可以将重点放在设计和评估针对这些**长期**和**异质性**效应的理论驱动平台策略。
   - **来源定位：** (para. 5)
   - **原文引述：** "While we cannot rule out effects from long-term exposure or to small vulnerable subsets of users, our evidence is not consistent with prevailing popular narratives about YouTube recommendation systems radicalizing users en masse"
+
+
+  我的思考
+
+  用大规模实验模拟了算法推送机制，实验结果为，在短期下，算法推送的确影响了用户的内容消费选择，但是，并没有出现政治态度等根本性改变。
+
+该研究的不足之处是，只测量了短期间，没有常年累月的测量。所以只能在短期层面上，过滤气泡的机制影响被夸大了。
+
+#### **可作为论据的发现：**
+
+- **设计干预的必要性（行为证据）：** 论文发现，即使在态度层面影响有限，算法干预仍能**显著改变用户实际选择消费的内容类型和数量**。这支持了您研究的必要性：**算法设计（您平台的设计）确实有能力影响用户的内容消费行为**。
+    
+- **短期影响上限：** 该研究发现的效应微乎其微，且置信区间狭窄。您可以利用这一发现作为背景论据，来证明**现有的算法（即使被夸大处理）在短时间内引发大规模两极化的能力是有限的**。这有助于您避免夸大问题，使您的设计目标聚焦于更精确、更长期的效应。
