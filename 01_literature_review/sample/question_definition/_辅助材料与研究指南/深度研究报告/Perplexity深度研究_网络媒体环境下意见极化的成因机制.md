@@ -401,4 +401,168 @@ Druckman等人的研究表明，当精英之间高度极化时，**普通公民�
 
 ## 引用文献
 
-[完整的引用列表请参见原文]
+Törnberg, P. (2022). "How digital media drive affective polarization." PNAS, 119(41).​
+
+Druckman, J. N., & Levendusky, M. S. (2019). "What Do We Measure When We Measure Affective Polarization?" Public Opinion Quarterly, 83(1), 114-122.​
+
+Steiglechner, P., et al. (2025). "How opinion variation among in-groups can skew perceptions of ideological polarization." Oxford Academic.​
+
+Campos, N., et al. (2025). "A New Measure of Affective Polarization." Cambridge.​
+
+Campos, N., et al. (2025). "A New Measure of Affective Polarization." Cambridge Organization.​
+
+Baumeister, R. F. (2023). "Group Polarization in Psychology: Definition & Examples." Simply Psychology.​
+
+"Group Polarization Definition, Causes & Example." Study.com, 2013.​
+
+"Confirmation bias & motivated reasoning." The News Literacy Project, 2022.​
+
+"What are Filter Bubbles and Digital Echo Chambers?" Heinrich Böll Foundation, 2022.​
+
+"Confirmation bias & motivated reasoning." News Literacy Project.​
+
+"Rethinking Filter Bubbles and Echo Chambers." PMC, 2022.​
+
+"Are online recommendation algorithms polarising users' views?" Polytechnique Insights, 2024.​
+
+Germano, F., Gómez, V., & Sobbrio, F. (2025). "Ranking for Engagement: How Social Media Algorithms Fuel Misinformation and Polarization." BSE Working Paper 1501.​
+
+Taber, C. S., & Lodge, M. (2006). "Motivated Skepticism in the Evaluation of Political Beliefs." American Journal of Political Science, 50(3), 755-769.​
+
+"Misinformation is rife and causing deeper polarisation." University of Western Australia, 2023.​
+
+"The Polarization Predicament & Media's Influence on Partisanship." YP Institute, 2025.​
+
+"How Social Identity Theory Explains Political Polarization." Psychology Today, 2024.​
+
+Iyengar, S., Sood, G., & Lelkes, Y. (2019). "From Partisan Media to Misperception: Affective Polarization." Oxford Academic.​
+
+Cikara, M., et al. (2024). "Polarization is the psychological foundation of collective engagement." Nature Communications Psychology.​
+
+Angelini, G., & Jones, P. (2024). "On the polarizing discourse on misinformation." Harvard Misinformation Review.​
+
+Park, C. S., et al. (2024). "Exposure to Cross-Cutting Information on Social Media." AJPOR.​
+
+Tajfel, H., et al. (2001). "Social Identity, Intergroup Conflict, and Conflict Reduction." Oxford Academic.​
+
+Del Vicario, M., et al. (2016). "The spreading of misinformation online." PNAS, 113(3), 554-559.​
+
+"Educational Inequality and Its Political and Economic Consequences." Global Journals, 2024.​
+
+"How to Navigate Political Polarization Through Media Literacy." Fair Elections Center, 2024.​
+
+Gronfeldt, B., et al. (2023). "Party people: Differentiating the associations of partisan identity." Wiley Online Library.​
+
+Houston, D. M. (2024). "Polarization, Partisan Sorting, and the Politics of Education." SAGE.​
+
+de Bruin, D., & FeldmanHall, O. (2025). "Politically Extreme Individuals Exhibit Similar Neural Processing." APA.​
+
+Gu, Y., et al. (2021). "Income Inequality and Global Political Polarization." PMC.​
+
+Jost, J. T., et al. (2022). "Cognitive–motivational mechanisms of political polarization." PMC.​
+
+Siev, J. J., et al. (2024). "Ambivalent attitudes promote support for extreme political action." Science.​
+
+"Three Pillars of Human Discourse." Tech Policy Press, 2024.​
+
+Chen, H. T., et al. (2024). "When Disagreement Becomes Uncivil on Social Media." Communication Research.​
+
+Dobber, T., & Hameleers, M. (2025). "The Social Media Comment Section as an Unruly Public Arena." SAGE.​
+
+Coscia, M., et al. (2022). "How minimizing conflicts could lead to polarization on social media." PLOS One.​
+
+Castaño-Pulgarín, S. A., et al. (2021). "Internet, social media and online hate speech." ScienceDirect.​
+
+Iacono, S. L., et al. (2022). "Hostile media perception affects news bias." PMC.​
+
+"The Algorithmic Management of Polarization and Violence." Knight Columbia, 2023.​
+
+Vasist, P. N., et al. (2023). "The Polarizing Impact of Political Disinformation and Hate Speech." PMC.​
+
+Kleinnijenhuis, J., et al. (2019). "Hostile media perceptions of friendly media." VU Research.​
+
+"Ideology and polarization set the agenda on social media." Nature.​
+
+"The Future of Democracy is at Risk as Declining Local Media." Illinois State, 2024.​
+
+"Influencers and Multipliers reinforce political Polarization." Max Planck Institute, 2025.​
+
+"Public Forums: Engaging Communities Through Open Discussion." DepolarWise, 2025.​
+
+"The Death of Local Newspapers and the Rise of 'News Deserts.'" InnoTech Today, 2023.​
+
+"Social media influencers may affect more than voter opinions." Penn State, 2023.​
+
+Waller, I., & Anderson, A. (2021). "Quantifying social organization and political polarization." ArXiv.​
+
+"News deserts are expanding in Latin America." Latam Journalism Review, 2025.​
+
+"Influencers as the New Opinion Leaders." LUISS, dissertation.​
+
+"Polarization and echo chambers in Reddit's political communities." ArXiv.​
+
+"The Decline of Local News: Its Impact on Democracy." Reputation Leaders, 2025.​
+
+"A systematic review of worldwide causal and correlational evidence." PMC, 2022.​
+
+"Are Social Media Driving Political Polarization?" Greater Good Institute, 2018.​
+
+Prasetya, H. A., et al. (2020). "A model of opinion and propagation structure polarization." Springer.​
+
+Lorenz-Spreen, P., et al. (2023). "A systematic review of worldwide causal and correlational evidence." Nature.​
+
+"De-sounding echo chambers." ScienceDirect, 2023.​
+
+"Moving towards informative and actionable social media research." ArXiv, 2024.​
+
+Bail, C. A., et al. (2018). "Exposure to opposing views on social media can increase political polarization." PNAS, 115(37), 9216-9221.​
+
+"Opinion dynamics in social networks." ArXiv, 2022.​
+
+"Polarization and social media: A systematic review." ScienceDirect, 2022.​
+
+"How Social Identities Facilitate the Growth of Affective Political Polarization." Pittsburgh Undergraduate Review, 2023-24.​
+
+"Why do some people become violent extremists?" Stockholm University, 2024.​
+
+"What Contributes to Affective Polarization in Networked Democracies." ArXiv, 2024.​
+
+Gómez, Á., et al. (2021). "Why People Enter and Embrace Violent Groups." Frontiers.​
+
+"Othering in politics: how affective polarization undermines democracy." Frontiers, 2025.​
+
+"Social Identity, Self-Uncertainty, and Violent Extremism." Cambridge, 2025.​
+
+"Polarization and the Political Elite." National Affairs, 2024.​
+
+Kim, Y., et al. (2020). "The Effects of Political Conflict News Frame." IJOC.​
+
+"Partisan Sorting Fuels Social Division Despite Stable Issue Alignments." PolisciData, 2014.​
+
+Druckman, J., et al. (2012). "How Elite Partisan Polarization Affects Public Opinion Formation." IPR Northwestern.​
+
+Gasparyan, O., et al. (2025). "Media choice and audience perceptions." PMC.​
+
+"Revisiting The Partisan Sort." Nicholas T. Davis.​
+
+Baldassarri, D., & Gelman, A. (2008). "Partisans without Constraint: Political Polarization." PMC.​
+
+"The Effects of Political Conflict News Frame on Political Polarization." IJOC.​
+
+""I Disrespectfully Agree:" The differential effects of partisan sorting." Academia.edu, 2014.​
+
+Ankori-Karlinsky, L. O. "Content that's as good as contact?" Cambridge, 2025.​
+
+Flores, C. (2025). "Identity-protective reasoning: an epistemic and political defense." Cambridge.​
+
+"The Good, the Bad, and the Evil Media: Influence of Online Comments." UF Journalism, 2023.​
+
+"Identity Protective Cognition." Sustainability Directory, 2025.​
+
+"Toxic atmosphere effect': Uncivil online comments cue negative audience perceptions." SAGE, 2025.​
+
+Flores, C. (2025). "Identity-protective reasoning: an epistemic and political." Cambridge.​
+
+Anderson, A. A., et al. (2018). "How Online Incivility Can Undermine Perceptions of Media." Oxford Academic.​
+
+"Scalable interventions reduce polarization." Stanford Sociology, 2024.​
